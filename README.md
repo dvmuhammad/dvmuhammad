@@ -6,7 +6,7 @@
 
 👨‍💻 I enjoy contributing to **Open Source Projects**.I am really enthusiastic about learning new technology
 
-⚽️ Outside the world of tech too, I love pushing myself to develop new skills ranging from football, voleybol, box, touch typing to some whacky ones like writing with my left hand.
+⚽️ Outside the world of tech too, I love pushing myself to develop new skills ranging from football, voleybol, touch typing to some whacky ones like writing with my left hand.
 
 
 ## 🛠️ Skills
