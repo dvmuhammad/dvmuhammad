@@ -27,7 +27,7 @@
 
 <div align="center">
     <br />
-        <img src="https://github-readme-stats.vercel.app/api?username=ruppysuppy&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=dvmuhammad&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
     <br />
 </div>
 
